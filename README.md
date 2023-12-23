@@ -1,4 +1,4 @@
-MySQL CLI
+SQLton
 This is a Python program that allows you to interact with MySQL databases through a command-line interface. It provides options for connecting to the MySQL server, creating, deleting, and modifying databases and tables, and performing various operations on them.
 
 Getting Started
