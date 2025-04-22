@@ -21,8 +21,3 @@ The program provides a simple command-line interface that allows you to navigate
 
 When you run the program, it will prompt you to enter the host, user, and password credentials for connecting to the MySQL server. Once you have entered the correct credentials, you will be able to access the main menu, which provides options for performing various operations on your databases and tables.
 
-Contributing
-If you want to contribute to this project, feel free to submit a pull request. Any contributions are welcome, whether it's bug fixes, new features, or documentation improvements.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
