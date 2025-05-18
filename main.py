@@ -1,7 +1,6 @@
 import mysql.connector
 import os
 
-
 def clear():
     os.system("cls")
 
